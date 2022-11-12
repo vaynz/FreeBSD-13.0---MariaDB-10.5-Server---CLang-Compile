@@ -10,5 +10,5 @@ All ports & pkg are up to date.
 <<<<<<< HEAD
 Download: https://drive.google.com/file/d/187QNTzrHEkT1gITVbGAv3vx8CinVT-Rc/view?usp=share_link
 =======
-Download: 
->>>>>>> dev
+Login: 
+root / dev
